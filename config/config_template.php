@@ -21,4 +21,10 @@ function mysqlInfo($key,$candyConfig)
     return $candyConfig['mysql'][$key];
 }
 
+# I Don't Know WTF I WRITE!!!!
+# Copied From ImJingLan/Dictum's Config Template LOL
+# A Template Forever!!!!
+# Forgive The Waring, It'll be Fine in config.php file
+# BTW:F U VS Code
+
 ?>
